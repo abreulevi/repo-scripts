@@ -1,4 +1,4 @@
-# 🛠️ **[Template Base](./Templates/powershell/templatescriptsPS.ps1/)**: Toolkit Interativo em PowerShell
+# 🛠️ **[Template Base](./templatescriptsPS.ps1/)**: Toolkit Interativo em PowerShell
 
 Este arquivo é o motor principal do repositório. Ele não é uma ferramenta de auditoria por si só, mas sim um **esqueleto arquitetural padronizado** para a criação rápida de menus interativos em console.
 
