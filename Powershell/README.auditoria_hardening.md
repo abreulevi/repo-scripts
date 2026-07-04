@@ -1,4 +1,4 @@
-# 💻 Toolkit Interativo: **[Auditoria e Enumeração de Sistema](./Powershell/auditoria_hardening.ps1)**
+# 💻 Toolkit Interativo: **[Auditoria e Enumeração de Sistema](./auditoria_hardening.ps1)**
 
 Este script em PowerShell foi desenhado para automatizar a coleta minuciosa de informações locais de um sistema operacional Windows. Ele é a ferramenta ideal para rotinas de *Hardening* e *Auditoria* .
 
