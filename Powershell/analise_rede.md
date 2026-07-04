@@ -1,4 +1,4 @@
-# 🌐 Toolkit Interativo: Testes e Auditoria de Rede
+# 🌐 Toolkit Interativo: **[Testes e Auditoria de Rede](./analise_rede.ps1)**
 
 Este script foi desenvolvido em PowerShell para automatizar coleta de informações de conexão de um host e testes de conectividade. É uma ferramenta interativa excelente para auditorias locais e *troubleshooting* em redes.
 
